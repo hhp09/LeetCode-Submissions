@@ -16,7 +16,7 @@
 class Solution {
     public TreeNode invertTree(TreeNode root) {
         // swapping leaves of sub tree in binary tree
-        // Run Time: O(n)
+        // Run Time Complexity: O(n)
         // Space complexity: O(n)
         if(root == null) {
             return root;
